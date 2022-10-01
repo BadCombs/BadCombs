@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giovanni
-- 👀 I’m interested in a lot of things, including playing the guitar
-- 🌱 I’m currently studing Computer Science in Trento
+- 🌱 Bachelor Student Computer Science - University of Trento
+- 👀 I also play the guitar
 - 📫 gpettinacci5@gmail.com
 
 <!---
